@@ -1,0 +1,8 @@
+version: "3.0"
+services:
+  ambientweather:
+    container_name: ambientweather
+    image: "ambweather"
+    restart: unless-stopped
+    network_mode: host
+
