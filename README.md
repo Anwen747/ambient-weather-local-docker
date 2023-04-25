@@ -4,7 +4,7 @@ Create a Docker container which will run a Python script to receive weather data
 
 All credit for the Python script goes to Austin at https://austinsnerdythings.com/2021/03/20/handling-data-from-ambient-weather-ws-2902c-to-mqtt
 
-I am very grateful for his sharing his work on his Ambient Weather project on his blog.
+I am very grateful for his sharing his Ambient Weather project on his blog.
 
 # Overview
 
