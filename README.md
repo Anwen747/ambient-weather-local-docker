@@ -75,6 +75,7 @@ using local logging instead of json logging in Docker, where you can set limits 
 rotate the log files.  References I have used:
 
 https://docs.docker.com/config/containers/logging/configure/
+
 https://juhanajauhiainen.com/posts/why-docker-is-eating-all-your-diskspace
 
 # Other Information
